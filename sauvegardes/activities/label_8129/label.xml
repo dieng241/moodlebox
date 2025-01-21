@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1677" moduleid="8129" modulename="label" contextid="9147">
+  <label id="1677">
+    <name>SUPPORTS DE COURS (copie)</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;Supports de cours&lt;/h4&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/TE-Atome-Mol%C3%A9cules-cours-chap1%20et%202.pdf"&gt;Chapitres 1 et 2&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/COMPLEMENT%200%20METTRE%20DANS%20lenvoi%202.pdf"&gt;COMPLEMENT de COURS&lt;/a&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1731516995</timemodified>
+  </label>
+</activity>

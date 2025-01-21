@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1678" moduleid="8130" modulename="label" contextid="9148">
+  <label id="1678">
+    <name>TRAVAUX DIRIGÉS</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;Travaux dirigés &lt;/h4&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/TD1%20.pdf"&gt;ENONCES d'EXERCICES sur les CHAPITRES 1 et 2&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;span style="color: rgb(207, 30, 21);"&gt;&lt;a style="color: rgb(207, 30, 21);" href="@@PLUGINFILE@@/Correction%20TD1%20-2024-2025.pdf"&gt;CORRECTION des EXERCICES sur les CHAPITRES 1 et 2&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1731517049</timemodified>
+  </label>
+</activity>

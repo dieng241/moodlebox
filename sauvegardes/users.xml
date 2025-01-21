@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="13" contextid="4177">
+    <username>marona</username>
+    <idnumber></idnumber>
+    <email>marona@moodlebox.invalid</email>
+    <phone1></phone1>
+    <phone2></phone2>
+    <institution></institution>
+    <department></department>
+    <address></address>
+    <city></city>
+    <country></country>
+    <lastip>192.168.0.102</lastip>
+    <picture>0</picture>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <imagealt></imagealt>
+    <auth>manual</auth>
+    <firstnamephonetic></firstnamephonetic>
+    <lastnamephonetic></lastnamephonetic>
+    <middlename></middlename>
+    <alternatename></alternatename>
+    <firstname>André</firstname>
+    <lastname>MARON</lastname>
+    <confirmed>1</confirmed>
+    <policyagreed>0</policyagreed>
+    <deleted>0</deleted>
+    <lang>fr</lang>
+    <theme></theme>
+    <timezone>99</timezone>
+    <firstaccess>1734432239</firstaccess>
+    <lastaccess>1734526240</lastaccess>
+    <lastlogin>1734520198</lastlogin>
+    <currentlogin>1734523480</currentlogin>
+    <mailformat>1</mailformat>
+    <maildigest>0</maildigest>
+    <maildisplay>2</maildisplay>
+    <autosubscribe>1</autosubscribe>
+    <trackforums>0</trackforums>
+    <timecreated>1720124832</timecreated>
+    <timemodified>1720124832</timemodified>
+    <trustbitmask>0</trustbitmask>
+    <custom_fields>
+    </custom_fields>
+    <tags>
+    </tags>
+    <preferences>
+      <preference id="143">
+        <name>auth_forcepasswordchange</name>
+        <value>0</value>
+      </preference>
+      <preference id="266">
+        <name>core_message_migrate_data</name>
+        <value>1</value>
+      </preference>
+      <preference id="267">
+        <name>core_user_welcome</name>
+        <value>1734432240</value>
+      </preference>
+      <preference id="144">
+        <name>email_bounce_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="145">
+        <name>email_send_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="265">
+        <name>login_failed_count_since_success</name>
+        <value>0</value>
+      </preference>
+      <preference id="269">
+        <name>tool_usertours_tour_completion_time_2</name>
+        <value>1734432269</value>
+      </preference>
+      <preference id="268">
+        <name>tool_usertours_tour_completion_time_4</name>
+        <value>1734432241</value>
+      </preference>
+      <preference id="270">
+        <name>tool_usertours_tour_completion_time_5</name>
+        <value>1734519406</value>
+      </preference>
+    </preferences>
+    <roles>
+      <role_overrides>
+      </role_overrides>
+      <role_assignments>
+      </role_assignments>
+    </roles>
+  </user>
+  <user id="35" contextid="9101">
+    <username>dubois244</username>
+    <idnumber></idnumber>
+    <email>anais.dubois@unicaen.fr</email>
+    <phone1></phone1>
+    <phone2></phone2>
+    <institution></institution>
+    <department></department>
+    <address></address>
+    <city></city>
+    <country></country>
+    <lastip>192.168.0.109</lastip>
+    <picture>0</picture>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <imagealt></imagealt>
+    <auth>manual</auth>
+    <firstnamephonetic></firstnamephonetic>
+    <lastnamephonetic></lastnamephonetic>
+    <middlename></middlename>
+    <alternatename></alternatename>
+    <firstname>Anaïs</firstname>
+    <lastname>Dubois</lastname>
+    <confirmed>1</confirmed>
+    <policyagreed>0</policyagreed>
+    <deleted>0</deleted>
+    <lang>fr</lang>
+    <theme></theme>
+    <timezone>99</timezone>
+    <firstaccess>1733922634</firstaccess>
+    <lastaccess>1734436026</lastaccess>
+    <lastlogin>1734432096</lastlogin>
+    <currentlogin>1734434508</currentlogin>
+    <mailformat>1</mailformat>
+    <maildigest>0</maildigest>
+    <maildisplay>0</maildisplay>
+    <autosubscribe>1</autosubscribe>
+    <trackforums>0</trackforums>
+    <timecreated>1733914273</timecreated>
+    <timemodified>1733914273</timemodified>
+    <trustbitmask>0</trustbitmask>
+    <custom_fields>
+    </custom_fields>
+    <tags>
+    </tags>
+    <preferences>
+      <preference id="255">
+        <name>auth_manual_passwordupdatetime</name>
+        <value>1733922807</value>
+      </preference>
+      <preference id="253">
+        <name>core_message_migrate_data</name>
+        <value>1</value>
+      </preference>
+      <preference id="256">
+        <name>core_user_welcome</name>
+        <value>1733922817</value>
+      </preference>
+      <preference id="261">
+        <name>drawer-open-index</name>
+        <value>0</value>
+      </preference>
+      <preference id="242">
+        <name>email_bounce_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="243">
+        <name>email_send_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="259">
+        <name>filepicker_recentlicense</name>
+        <value>unknown</value>
+      </preference>
+      <preference id="258">
+        <name>filepicker_recentrepository</name>
+        <value>10</value>
+      </preference>
+      <preference id="254">
+        <name>login_failed_count_since_success</name>
+        <value>0</value>
+      </preference>
+      <preference id="260">
+        <name>tool_usertours_tour_completion_time_3</name>
+        <value>1733928787</value>
+      </preference>
+      <preference id="257">
+        <name>tool_usertours_tour_completion_time_4</name>
+        <value>1733922821</value>
+      </preference>
+    </preferences>
+    <roles>
+      <role_overrides>
+      </role_overrides>
+      <role_assignments>
+      </role_assignments>
+    </roles>
+  </user>
+</users>

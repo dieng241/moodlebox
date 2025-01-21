@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="348104">
+        <eventname>\mod_forum\event\subscription_created</eventname>
+        <component>mod_forum</component>
+        <action>created</action>
+        <target>subscription</target>
+        <objecttable>forum_subscriptions</objecttable>
+        <objectid>144</objectid>
+        <crud>c</crud>
+        <edulevel>2</edulevel>
+        <contextid>9144</contextid>
+        <userid>35</userid>
+        <relateduserid>13</relateduserid>
+        <anonymous>0</anonymous>
+        <other>eyJmb3J1bWlkIjoiMzgwIn0=</other>
+        <timecreated>1734074999</timecreated>
+        <ip>10.10.1.250</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

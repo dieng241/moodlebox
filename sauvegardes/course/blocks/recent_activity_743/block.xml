@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="743" contextid="9139" version="2023100900">
+  <blockname>recent_activity</blockname>
+  <parentcontextid>6788</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>2</defaultweight>
+  <configdata></configdata>
+  <timecreated>1720434865</timecreated>
+  <timemodified>1720434865</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

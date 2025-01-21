@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group id="1502">
+    <name>L2 M</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026719</timecreated>
+    <timemodified>1631026719</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1503">
+    <name>L2 A</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026766</timecreated>
+    <timemodified>1631026766</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1504">
+    <name>L2 Arles</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026775</timecreated>
+    <timemodified>1631026775</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1505">
+    <name>L2 EAD</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026783</timecreated>
+    <timemodified>1631026783</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1506">
+    <name>L2 B</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026798</timecreated>
+    <timemodified>1631026798</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1507">
+    <name>L2 PARL M</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026816</timecreated>
+    <timemodified>1631026816</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1508">
+    <name>L2 PARL Aix</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631026831</timecreated>
+    <timemodified>1631026831</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1509">
+    <name>Rechercher une alternance</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632297744</timecreated>
+    <timemodified>1632298051</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1510">
+    <name>Rechercher un stage</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632298544</timecreated>
+    <timemodified>1632299338</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1511">
+    <name>Développer son réseau</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632298595</timecreated>
+    <timemodified>1632299232</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1512">
+    <name>Se rendre visible auprès des recruteurs</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632299295</timecreated>
+    <timemodified>1632300402</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1513">
+    <name>Candidater en master ou filiere selective</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632299706</timecreated>
+    <timemodified>1632300555</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1514">
+    <name>Améliorer son CV et sa lettre de motivation</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632300565</timecreated>
+    <timemodified>1632301372</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1515">
+    <name>Passer des concours</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632301286</timecreated>
+    <timemodified>1632314353</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1516">
+    <name>Groupe A</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1585903579</timecreated>
+    <timemodified>1646206687</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1517">
+    <name>Groupe B</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1585903579</timecreated>
+    <timemodified>1646206687</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1518">
+    <name>Groupe C</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1585903579</timecreated>
+    <timemodified>1646206687</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1519">
+    <name>Groupe lundi</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1585919929</timecreated>
+    <timemodified>1585919929</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1520">
+    <name>Groupe Mardi</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1585919946</timecreated>
+    <timemodified>1585919946</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1521">
+    <name>tiers temps</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588959459</timecreated>
+    <timemodified>1606230892</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1522">
+    <name>Erasmus épr1 unique</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588960124</timecreated>
+    <timemodified>1589036377</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1523">
+    <name>Erasmus épr2 unique</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588960141</timecreated>
+    <timemodified>1589036476</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1524">
+    <name>Erasmus épr3 unique</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588960153</timecreated>
+    <timemodified>1589073255</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1525">
+    <name>Erasmus épr1 et 2</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588965309</timecreated>
+    <timemodified>1588967027</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1526">
+    <name>Erasmus épr1 et 3</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588965324</timecreated>
+    <timemodified>1588968944</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1527">
+    <name>Erasmus épr2 et 3</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1588965352</timecreated>
+    <timemodified>1589037536</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1528">
+    <name>Groupe D</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607005704</timecreated>
+    <timemodified>1607005704</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1529">
+    <name>Groupe E</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607005704</timecreated>
+    <timemodified>1607005704</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1530">
+    <name>Groupe F</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607005704</timecreated>
+    <timemodified>1607005704</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1531">
+    <name>Groupe G</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607005704</timecreated>
+    <timemodified>1607005704</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1532">
+    <name>Groupe H</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607005704</timecreated>
+    <timemodified>1607005704</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1533">
+    <name>Devoir 1</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607365837</timecreated>
+    <timemodified>1607365837</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1534">
+    <name>Devoir 2</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607365837</timecreated>
+    <timemodified>1607365837</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1535">
+    <name>Devoir 3</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607365837</timecreated>
+    <timemodified>1607365838</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1536">
+    <name>Devoir 4</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607365838</timecreated>
+    <timemodified>1607365838</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1537">
+    <name>Devoir 5</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1607365838</timecreated>
+    <timemodified>1607365838</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1538">
+    <name>Tiers-temps</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1632902283</timecreated>
+    <timemodified>1632903876</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1539">
+    <name>Groupe A ✈</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786461</timecreated>
+    <timemodified>1696955880</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1540">
+    <name>Groupe D 🚗</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786487</timecreated>
+    <timemodified>1696956668</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1541">
+    <name>Groupe E 🛹</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786509</timecreated>
+    <timemodified>1702137183</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1542">
+    <name>Groupe F 🚍</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786526</timecreated>
+    <timemodified>1696956640</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1543">
+    <name>Groupe H 🛴</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786543</timecreated>
+    <timemodified>1696956671</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1544">
+    <name>Groupe G 🚝</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786563</timecreated>
+    <timemodified>1696955514</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1545">
+    <name>Groupe I 🏎</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786582</timecreated>
+    <timemodified>1696956500</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1546">
+    <name>Groupe J 🛵</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786601</timecreated>
+    <timemodified>1696787049</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1547">
+    <name>Groupe K 🚙</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786626</timecreated>
+    <timemodified>1697455360</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1548">
+    <name>Groupe B 🚁</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786648</timecreated>
+    <timemodified>1702137178</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1549">
+    <name>Groupe C 🚢</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1696786682</timecreated>
+    <timemodified>1696786963</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1550">
+    <name>Aix G Cartry Gr2.1 - Gr 2.2</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1536312767</timecreated>
+    <timemodified>1699460381</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1551">
+    <name>Aix G Cartry Gr1.1 - Gr 1.2</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1536312862</timecreated>
+    <timemodified>1700140671</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1552">
+    <name>Saint Jérôme B. Ealet gpe 1 et 2</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631780559</timecreated>
+    <timemodified>1700727862</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1553">
+    <name>Saint Jérôme B. Ealet gpes 5 et 6</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631780580</timecreated>
+    <timemodified>1699460286</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="1554">
+    <name>Saint Jérôme J-Y Natoli gpe 3 et 4</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <visibility>0</visibility>
+    <participation>1</participation>
+    <timecreated>1631780612</timecreated>
+    <timemodified>1700727869</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <groupcustomfields>
+  </groupcustomfields>
+  <groupings>
+    <grouping id="272">
+      <name>Aix</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1631026898</timecreated>
+      <timemodified>1631026898</timemodified>
+      <grouping_groups>
+        <grouping_group id="948">
+          <groupid>1503</groupid>
+          <timeadded>1631026923</timeadded>
+        </grouping_group>
+        <grouping_group id="949">
+          <groupid>1506</groupid>
+          <timeadded>1631026923</timeadded>
+        </grouping_group>
+        <grouping_group id="950">
+          <groupid>1508</groupid>
+          <timeadded>1631026923</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="273">
+      <name>Marseille</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1631026952</timecreated>
+      <timemodified>1631026952</timemodified>
+      <grouping_groups>
+        <grouping_group id="951">
+          <groupid>1502</groupid>
+          <timeadded>1631026962</timeadded>
+        </grouping_group>
+        <grouping_group id="952">
+          <groupid>1507</groupid>
+          <timeadded>1631026962</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="274">
+      <name>tous</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1631717358</timecreated>
+      <timemodified>1631717358</timemodified>
+      <grouping_groups>
+        <grouping_group id="953">
+          <groupid>1503</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="954">
+          <groupid>1504</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="955">
+          <groupid>1506</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="956">
+          <groupid>1505</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="957">
+          <groupid>1502</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="958">
+          <groupid>1508</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+        <grouping_group id="959">
+          <groupid>1507</groupid>
+          <timeadded>1631717374</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="275">
+      <name>Erasmus</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1588968126</timecreated>
+      <timemodified>1588968126</timemodified>
+      <grouping_groups>
+        <grouping_group id="960">
+          <groupid>1525</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+        <grouping_group id="961">
+          <groupid>1526</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+        <grouping_group id="962">
+          <groupid>1522</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+        <grouping_group id="963">
+          <groupid>1527</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+        <grouping_group id="964">
+          <groupid>1523</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+        <grouping_group id="965">
+          <groupid>1524</groupid>
+          <timeadded>1588968139</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="276">
+      <name>E-marketing</name>
+      <idnumber></idnumber>
+      <description>$@NULL@$</description>
+      <descriptionformat>0</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1606228140</timecreated>
+      <timemodified>1606228140</timemodified>
+      <grouping_groups>
+        <grouping_group id="966">
+          <groupid>1516</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="967">
+          <groupid>1517</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="968">
+          <groupid>1518</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="969">
+          <groupid>1528</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="970">
+          <groupid>1529</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="971">
+          <groupid>1530</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="972">
+          <groupid>1531</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+        <grouping_group id="973">
+          <groupid>1532</groupid>
+          <timeadded>1607005704</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="277">
+      <name>Devoir1</name>
+      <idnumber></idnumber>
+      <description>$@NULL@$</description>
+      <descriptionformat>0</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1607365837</timecreated>
+      <timemodified>1607365837</timemodified>
+      <grouping_groups>
+        <grouping_group id="974">
+          <groupid>1533</groupid>
+          <timeadded>1607365837</timeadded>
+        </grouping_group>
+        <grouping_group id="975">
+          <groupid>1534</groupid>
+          <timeadded>1607365837</timeadded>
+        </grouping_group>
+        <grouping_group id="976">
+          <groupid>1535</groupid>
+          <timeadded>1607365838</timeadded>
+        </grouping_group>
+        <grouping_group id="977">
+          <groupid>1536</groupid>
+          <timeadded>1607365838</timeadded>
+        </grouping_group>
+        <grouping_group id="978">
+          <groupid>1537</groupid>
+          <timeadded>1607365838</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="278">
+      <name>Etudiants de Mr Cartry</name>
+      <idnumber></idnumber>
+      <description>&lt;p&gt;Groupes de Aix&lt;/p&gt;</description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1569267747</timecreated>
+      <timemodified>1630940900</timemodified>
+      <grouping_groups>
+        <grouping_group id="979">
+          <groupid>1551</groupid>
+          <timeadded>1569267816</timeadded>
+        </grouping_group>
+        <grouping_group id="980">
+          <groupid>1550</groupid>
+          <timeadded>1569267820</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <grouping id="279">
+      <name>Etudiants de Marseille</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1574617262</timecreated>
+      <timemodified>1574617278</timemodified>
+      <grouping_groups>
+        <grouping_group id="981">
+          <groupid>1552</groupid>
+          <timeadded>1638133696</timeadded>
+        </grouping_group>
+        <grouping_group id="982">
+          <groupid>1554</groupid>
+          <timeadded>1638133698</timeadded>
+        </grouping_group>
+        <grouping_group id="983">
+          <groupid>1553</groupid>
+          <timeadded>1638133701</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+    <groupingcustomfields>
+    </groupingcustomfields>
+  </groupings>
+</groups>

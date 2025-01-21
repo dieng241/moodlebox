@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1680" moduleid="8132" modulename="label" contextid="9150">
+  <label id="1680">
+    <name>SUPPORTS DE COURS</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;Supports de cours&lt;/h4&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/TE-Atome-Mol%C3%A9cules-cours-chap3-2024-25.pdf"&gt;Chapitre 3&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1729351791</timemodified>
+  </label>
+</activity>

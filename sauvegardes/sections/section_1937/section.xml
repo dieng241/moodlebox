@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1937">
+  <number>8</number>
+  <name>Chapitre  LIAISON CHIMIQUE</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>8137,8138,8139</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1734074928</timemodified>
+  <tile id="1937">
+  </tile>
+  <course_format_options id="1062">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_4</value>
+  </course_format_options>
+</section>

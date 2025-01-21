@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

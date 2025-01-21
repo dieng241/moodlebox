@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1613">
+      <roleid>5</roleid>
+      <capability>moodle/course:view</capability>
+      <permission>1</permission>
+      <timemodified>1734074925</timemodified>
+      <modifierid>35</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+    <assignment id="433">
+      <roleid>5</roleid>
+      <userid>13</userid>
+      <timemodified>1734074999</timemodified>
+      <modifierid>35</modifierid>
+      <component></component>
+      <itemid>0</itemid>
+      <sortorder>0</sortorder>
+    </assignment>
+  </role_assignments>
+</roles>

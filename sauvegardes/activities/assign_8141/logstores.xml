@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="350394">
+        <eventname>\mod_assign\event\course_module_viewed</eventname>
+        <component>mod_assign</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>assign</objecttable>
+        <objectid>289</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>9159</contextid>
+        <userid>13</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>bnVsbA==</other>
+        <timecreated>1734522994</timecreated>
+        <ip>192.168.0.102</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="350397">
+        <eventname>\mod_assign\event\submission_status_viewed</eventname>
+        <component>mod_assign</component>
+        <action>viewed</action>
+        <target>submission_status</target>
+        <objecttable>$@NULL@$</objecttable>
+        <objectid>$@NULL@$</objectid>
+        <crud>r</crud>
+        <edulevel>0</edulevel>
+        <contextid>9159</contextid>
+        <userid>13</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>eyJhc3NpZ25pZCI6IjI4OSJ9</other>
+        <timecreated>1734522995</timecreated>
+        <ip>192.168.0.102</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="350401">
+        <eventname>\mod_assign\event\course_module_viewed</eventname>
+        <component>mod_assign</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>assign</objecttable>
+        <objectid>289</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>9159</contextid>
+        <userid>13</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>bnVsbA==</other>
+        <timecreated>1734523023</timecreated>
+        <ip>192.168.0.102</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="350402">
+        <eventname>\mod_assign\event\submission_status_viewed</eventname>
+        <component>mod_assign</component>
+        <action>viewed</action>
+        <target>submission_status</target>
+        <objecttable>$@NULL@$</objecttable>
+        <objectid>$@NULL@$</objectid>
+        <crud>r</crud>
+        <edulevel>0</edulevel>
+        <contextid>9159</contextid>
+        <userid>13</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>eyJhc3NpZ25pZCI6IjI4OSJ9</other>
+        <timecreated>1734523023</timecreated>
+        <ip>192.168.0.102</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

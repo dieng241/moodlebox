@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1940">
+  <number>11</number>
+  <name>Ressources / Bibliographie</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence></sequence>
+  <visible>0</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1729351717</timemodified>
+  <tile id="1940">
+  </tile>
+  <course_format_options id="1065">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>book</value>
+  </course_format_options>
+</section>

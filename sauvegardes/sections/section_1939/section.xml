@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1939">
+  <number>10</number>
+  <name>Préparation aux examens finaux (tuile à activer si utilisée)</name>
+  <summary>&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;&lt;strong&gt;&lt;span class="" style="color: rgb(0, 0, 0);"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>8142</sequence>
+  <visible>0</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1734074929</timemodified>
+  <tile id="1939">
+  </tile>
+  <course_format_options id="1064">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>mortar-board</value>
+  </course_format_options>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1934">
+  <number>5</number>
+  <name>Chapitres 1 et 2: Structures des Atomes et Atomes d'Hydrogène</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>8128,8129,8130</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1734074928</timemodified>
+  <tile id="1934">
+  </tile>
+  <course_format_options id="1059">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_1</value>
+  </course_format_options>
+</section>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="742" contextid="9138" version="2023100900">
+  <blockname>calendar_month</blockname>
+  <parentcontextid>6788</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata></configdata>
+  <timecreated>1687184986</timecreated>
+  <timemodified>1687184986</timemodified>
+  <block_positions>
+    <block_position id="179">
+      <contextid>6788</contextid>
+      <pagetype>course-view-tiles</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-pre</region>
+      <weight>2</weight>
+    </block_position>
+  </block_positions>
+</block>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1938">
+  <number>9</number>
+  <name>DEVOIRS</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>8140,8141</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1734074929</timemodified>
+  <tile id="1938">
+  </tile>
+  <course_format_options id="1063">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_5</value>
+  </course_format_options>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1686" moduleid="8138" modulename="label" contextid="9156">
+  <label id="1686">
+    <name>SUPPORTS DE COURS (copie) (copie)</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;SUPPORT de COURS&lt;/h4&gt;
+&lt;h6 style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/La%20LIAISON%20CHIMIQUE.introduction.pdf"&gt;INTRODUCTION&lt;/a&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/lIAISON%20CHIMIQUE.pdf"&gt;LIAISON CHIMIQUE&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1733396527</timemodified>
+  </label>
+</activity>

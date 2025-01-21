@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1687" moduleid="8139" modulename="label" contextid="9157">
+  <label id="1687">
+    <name>TRAVAUX DIRIGÉS</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;Travaux dirigés &lt;/h4&gt;
+&lt;div&gt;&lt;a href="@@PLUGINFILE@@/TD4-2024-2025.pdf"&gt;EXERCICES sur la LIAISON CHIMIQUE&lt;/a&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1733396648</timemodified>
+  </label>
+</activity>
