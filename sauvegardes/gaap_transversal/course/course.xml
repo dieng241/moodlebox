@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="29204" contextid="347611">
+  <shortname>GAAP transversal</shortname>
+  <fullname>GAAP transversal T1-T3</fullname>
+  <idnumber></idnumber>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>0</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1632088800</startdate>
+  <enddate>1663624800</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>1</groupmode>
+  <groupmodeforce>1</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1537362393</timecreated>
+  <timemodified>1728469337</timemodified>
+  <requested>0</requested>
+  <showactivitydates>0</showactivitydates>
+  <showcompletionconditions>1</showcompletionconditions>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <plugin_plagiarism_compilatio_course>
+    <compilatio_configs>
+    </compilatio_configs>
+  </plugin_plagiarism_compilatio_course>
+  <category id="15857">
+    <name>DES Médecine Générale</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+  <courseformatoptions>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>hiddensections</name>
+      <value>1</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>coursedisplay</name>
+      <value>0</value>
+    </courseformatoption>
+  </courseformatoptions>
+</course>

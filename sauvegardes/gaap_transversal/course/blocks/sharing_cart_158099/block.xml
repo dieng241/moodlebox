@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="158099" contextid="1154802" version="2024020501">
+  <blockname>sharing_cart</blockname>
+  <parentcontextid>347611</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>12</defaultweight>
+  <configdata></configdata>
+  <timecreated>1650009162</timecreated>
+  <timemodified>1650009162</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="92722" contextid="347667" version="2023072703">
+  <blockname>massaction</blockname>
+  <parentcontextid>347611</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>11</defaultweight>
+  <configdata></configdata>
+  <timecreated>1534934345</timecreated>
+  <timemodified>1534934333</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

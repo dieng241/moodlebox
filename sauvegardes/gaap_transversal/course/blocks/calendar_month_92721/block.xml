@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="92721" contextid="347665" version="2022112800">
+  <blockname>calendar_month</blockname>
+  <parentcontextid>347611</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>grade-report-user-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>11</defaultweight>
+  <configdata></configdata>
+  <timecreated>1534934345</timecreated>
+  <timemodified>1534934333</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

@@ -1,0 +1,3259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion>
+  <course_completions id="6520777">
+    <userid>370</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520778">
+    <userid>930</userid>
+    <course>29204</course>
+    <timeenrolled>1575467783</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520779">
+    <userid>956</userid>
+    <course>29204</course>
+    <timeenrolled>1542293481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520780">
+    <userid>1485</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520781">
+    <userid>1530</userid>
+    <course>29204</course>
+    <timeenrolled>1664944271</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520782">
+    <userid>1960</userid>
+    <course>29204</course>
+    <timeenrolled>1542293481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520783">
+    <userid>2236</userid>
+    <course>29204</course>
+    <timeenrolled>1542293481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520784">
+    <userid>2274</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520785">
+    <userid>2324</userid>
+    <course>29204</course>
+    <timeenrolled>1575475972</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520786">
+    <userid>2584</userid>
+    <course>29204</course>
+    <timeenrolled>1666153844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520787">
+    <userid>2855</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520788">
+    <userid>3094</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520789">
+    <userid>3317</userid>
+    <course>29204</course>
+    <timeenrolled>1666153844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520790">
+    <userid>3591</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520791">
+    <userid>3843</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520792">
+    <userid>4018</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520793">
+    <userid>4096</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520794">
+    <userid>4099</userid>
+    <course>29204</course>
+    <timeenrolled>1663928292</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520795">
+    <userid>4205</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520796">
+    <userid>4415</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520797">
+    <userid>4506</userid>
+    <course>29204</course>
+    <timeenrolled>1669834403</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520798">
+    <userid>4507</userid>
+    <course>29204</course>
+    <timeenrolled>1664512251</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520799">
+    <userid>4615</userid>
+    <course>29204</course>
+    <timeenrolled>1665289841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520800">
+    <userid>4875</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520801">
+    <userid>4939</userid>
+    <course>29204</course>
+    <timeenrolled>1666153844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520802">
+    <userid>4997</userid>
+    <course>29204</course>
+    <timeenrolled>1667280646</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520803">
+    <userid>5071</userid>
+    <course>29204</course>
+    <timeenrolled>1638525484</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520804">
+    <userid>5431</userid>
+    <course>29204</course>
+    <timeenrolled>1664512251</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520805">
+    <userid>5481</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520806">
+    <userid>5513</userid>
+    <course>29204</course>
+    <timeenrolled>1666153844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520807">
+    <userid>5536</userid>
+    <course>29204</course>
+    <timeenrolled>1632594072</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520808">
+    <userid>5571</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520809">
+    <userid>5887</userid>
+    <course>29204</course>
+    <timeenrolled>1666845048</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520810">
+    <userid>6075</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520811">
+    <userid>6129</userid>
+    <course>29204</course>
+    <timeenrolled>1667280647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520812">
+    <userid>6189</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520813">
+    <userid>6428</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520814">
+    <userid>6442</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520815">
+    <userid>6445</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520816">
+    <userid>6448</userid>
+    <course>29204</course>
+    <timeenrolled>1664253042</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520817">
+    <userid>6511</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520818">
+    <userid>6538</userid>
+    <course>29204</course>
+    <timeenrolled>1665721841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520819">
+    <userid>6665</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520820">
+    <userid>6723</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520821">
+    <userid>6739</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520822">
+    <userid>6951</userid>
+    <course>29204</course>
+    <timeenrolled>1633371663</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520823">
+    <userid>6999</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520824">
+    <userid>7200</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520825">
+    <userid>7226</userid>
+    <course>29204</course>
+    <timeenrolled>1666845048</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520826">
+    <userid>7247</userid>
+    <course>29204</course>
+    <timeenrolled>1665289841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520827">
+    <userid>7303</userid>
+    <course>29204</course>
+    <timeenrolled>1665635488</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520828">
+    <userid>7367</userid>
+    <course>29204</course>
+    <timeenrolled>1665635487</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520829">
+    <userid>7752</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520830">
+    <userid>8113</userid>
+    <course>29204</course>
+    <timeenrolled>1664857846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520831">
+    <userid>8302</userid>
+    <course>29204</course>
+    <timeenrolled>1664944281</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520832">
+    <userid>8389</userid>
+    <course>29204</course>
+    <timeenrolled>1664512251</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520833">
+    <userid>8514</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520834">
+    <userid>8812</userid>
+    <course>29204</course>
+    <timeenrolled>1664425841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520835">
+    <userid>8861</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520836">
+    <userid>8906</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520837">
+    <userid>8984</userid>
+    <course>29204</course>
+    <timeenrolled>1665635488</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520838">
+    <userid>9028</userid>
+    <course>29204</course>
+    <timeenrolled>1664944281</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520839">
+    <userid>9132</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520840">
+    <userid>9217</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520841">
+    <userid>9255</userid>
+    <course>29204</course>
+    <timeenrolled>1665203447</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520842">
+    <userid>9349</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520843">
+    <userid>9631</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520844">
+    <userid>9766</userid>
+    <course>29204</course>
+    <timeenrolled>1664512251</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520845">
+    <userid>9779</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520846">
+    <userid>9798</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520847">
+    <userid>9870</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520848">
+    <userid>9939</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520849">
+    <userid>10022</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520850">
+    <userid>10037</userid>
+    <course>29204</course>
+    <timeenrolled>1666067495</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520851">
+    <userid>10858</userid>
+    <course>29204</course>
+    <timeenrolled>1665030643</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520852">
+    <userid>12766</userid>
+    <course>29204</course>
+    <timeenrolled>1664944282</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520853">
+    <userid>12856</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520854">
+    <userid>12929</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520855">
+    <userid>12940</userid>
+    <course>29204</course>
+    <timeenrolled>1664857846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520856">
+    <userid>12986</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520857">
+    <userid>13038</userid>
+    <course>29204</course>
+    <timeenrolled>1664857846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520858">
+    <userid>13129</userid>
+    <course>29204</course>
+    <timeenrolled>1664944281</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520859">
+    <userid>13221</userid>
+    <course>29204</course>
+    <timeenrolled>1666067494</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520860">
+    <userid>13268</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520861">
+    <userid>13272</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520862">
+    <userid>13279</userid>
+    <course>29204</course>
+    <timeenrolled>1665117047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520863">
+    <userid>13327</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520864">
+    <userid>13351</userid>
+    <course>29204</course>
+    <timeenrolled>1666153848</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520865">
+    <userid>13389</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520866">
+    <userid>13412</userid>
+    <course>29204</course>
+    <timeenrolled>1665635497</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520867">
+    <userid>13596</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520868">
+    <userid>13882</userid>
+    <course>29204</course>
+    <timeenrolled>1664339506</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520869">
+    <userid>14478</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520870">
+    <userid>14509</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520871">
+    <userid>14656</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520872">
+    <userid>14799</userid>
+    <course>29204</course>
+    <timeenrolled>1664339506</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520873">
+    <userid>14825</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520874">
+    <userid>14877</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520875">
+    <userid>15056</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520876">
+    <userid>15206</userid>
+    <course>29204</course>
+    <timeenrolled>1666067494</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520877">
+    <userid>15355</userid>
+    <course>29204</course>
+    <timeenrolled>1664944281</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520878">
+    <userid>15798</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520879">
+    <userid>15830</userid>
+    <course>29204</course>
+    <timeenrolled>1664857846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520880">
+    <userid>15974</userid>
+    <course>29204</course>
+    <timeenrolled>1665635497</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520881">
+    <userid>16176</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520882">
+    <userid>20168</userid>
+    <course>29204</course>
+    <timeenrolled>1664944281</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520883">
+    <userid>20441</userid>
+    <course>29204</course>
+    <timeenrolled>1664339506</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520884">
+    <userid>20700</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520885">
+    <userid>20767</userid>
+    <course>29204</course>
+    <timeenrolled>1665635497</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520886">
+    <userid>20864</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520887">
+    <userid>21068</userid>
+    <course>29204</course>
+    <timeenrolled>1664425847</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520888">
+    <userid>22303</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520889">
+    <userid>22458</userid>
+    <course>29204</course>
+    <timeenrolled>1665562297</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520890">
+    <userid>22463</userid>
+    <course>29204</course>
+    <timeenrolled>1665289844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520891">
+    <userid>22761</userid>
+    <course>29204</course>
+    <timeenrolled>1666240258</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520892">
+    <userid>22948</userid>
+    <course>29204</course>
+    <timeenrolled>1667017846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520893">
+    <userid>23034</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520894">
+    <userid>23431</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520895">
+    <userid>24362</userid>
+    <course>29204</course>
+    <timeenrolled>1664857846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520896">
+    <userid>25314</userid>
+    <course>29204</course>
+    <timeenrolled>1665203447</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520897">
+    <userid>30428</userid>
+    <course>29204</course>
+    <timeenrolled>1571276868</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520898">
+    <userid>62447</userid>
+    <course>29204</course>
+    <timeenrolled>1575475689</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520899">
+    <userid>63558</userid>
+    <course>29204</course>
+    <timeenrolled>1575476029</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520900">
+    <userid>75939</userid>
+    <course>29204</course>
+    <timeenrolled>1665117048</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520901">
+    <userid>78200</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520902">
+    <userid>107764</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520903">
+    <userid>108445</userid>
+    <course>29204</course>
+    <timeenrolled>1575465650</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520904">
+    <userid>108554</userid>
+    <course>29204</course>
+    <timeenrolled>1665721841</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520905">
+    <userid>108870</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520906">
+    <userid>108924</userid>
+    <course>29204</course>
+    <timeenrolled>1663928292</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520907">
+    <userid>127979</userid>
+    <course>29204</course>
+    <timeenrolled>1638525484</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520908">
+    <userid>128132</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520909">
+    <userid>128139</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520910">
+    <userid>128146</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520911">
+    <userid>128148</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520912">
+    <userid>128179</userid>
+    <course>29204</course>
+    <timeenrolled>1663928292</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520913">
+    <userid>128184</userid>
+    <course>29204</course>
+    <timeenrolled>1664339496</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520914">
+    <userid>128263</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520915">
+    <userid>128346</userid>
+    <course>29204</course>
+    <timeenrolled>1666931449</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520916">
+    <userid>128426</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520917">
+    <userid>128678</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520918">
+    <userid>128685</userid>
+    <course>29204</course>
+    <timeenrolled>1666153844</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520919">
+    <userid>128687</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520920">
+    <userid>128969</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520921">
+    <userid>128977</userid>
+    <course>29204</course>
+    <timeenrolled>1667280646</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520922">
+    <userid>128985</userid>
+    <course>29204</course>
+    <timeenrolled>1664598642</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520923">
+    <userid>129544</userid>
+    <course>29204</course>
+    <timeenrolled>1666240253</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520924">
+    <userid>129734</userid>
+    <course>29204</course>
+    <timeenrolled>1665117043</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520925">
+    <userid>129739</userid>
+    <course>29204</course>
+    <timeenrolled>1664857842</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520926">
+    <userid>129746</userid>
+    <course>29204</course>
+    <timeenrolled>1666067481</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520927">
+    <userid>129754</userid>
+    <course>29204</course>
+    <timeenrolled>1665562290</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520928">
+    <userid>129766</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520929">
+    <userid>129830</userid>
+    <course>29204</course>
+    <timeenrolled>1669834403</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520930">
+    <userid>129863</userid>
+    <course>29204</course>
+    <timeenrolled>1665635488</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520931">
+    <userid>129866</userid>
+    <course>29204</course>
+    <timeenrolled>1669834403</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520932">
+    <userid>129902</userid>
+    <course>29204</course>
+    <timeenrolled>1666240253</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520933">
+    <userid>129905</userid>
+    <course>29204</course>
+    <timeenrolled>1667017846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520934">
+    <userid>129995</userid>
+    <course>29204</course>
+    <timeenrolled>1667885463</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520935">
+    <userid>130039</userid>
+    <course>29204</course>
+    <timeenrolled>1667367045</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520936">
+    <userid>130097</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520937">
+    <userid>130113</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520938">
+    <userid>130159</userid>
+    <course>29204</course>
+    <timeenrolled>1667017845</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520939">
+    <userid>130213</userid>
+    <course>29204</course>
+    <timeenrolled>1666240253</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520940">
+    <userid>134306</userid>
+    <course>29204</course>
+    <timeenrolled>1669834403</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520941">
+    <userid>147738</userid>
+    <course>29204</course>
+    <timeenrolled>1666845047</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520942">
+    <userid>164140</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520943">
+    <userid>164150</userid>
+    <course>29204</course>
+    <timeenrolled>1664253057</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520944">
+    <userid>164263</userid>
+    <course>29204</course>
+    <timeenrolled>1676459026</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520945">
+    <userid>164551</userid>
+    <course>29204</course>
+    <timeenrolled>1664771445</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520946">
+    <userid>164736</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520947">
+    <userid>164758</userid>
+    <course>29204</course>
+    <timeenrolled>1665030647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520948">
+    <userid>164910</userid>
+    <course>29204</course>
+    <timeenrolled>1665117048</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520949">
+    <userid>164982</userid>
+    <course>29204</course>
+    <timeenrolled>1665203447</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520950">
+    <userid>164988</userid>
+    <course>29204</course>
+    <timeenrolled>1665203447</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520951">
+    <userid>165122</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520952">
+    <userid>165147</userid>
+    <course>29204</course>
+    <timeenrolled>1665562297</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520953">
+    <userid>165163</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520954">
+    <userid>165165</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520955">
+    <userid>165186</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520956">
+    <userid>165195</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520957">
+    <userid>165199</userid>
+    <course>29204</course>
+    <timeenrolled>1665562298</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520958">
+    <userid>165208</userid>
+    <course>29204</course>
+    <timeenrolled>1665635497</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520959">
+    <userid>165255</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520960">
+    <userid>165261</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520961">
+    <userid>165262</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520962">
+    <userid>165268</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520963">
+    <userid>165270</userid>
+    <course>29204</course>
+    <timeenrolled>1665721846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520964">
+    <userid>165362</userid>
+    <course>29204</course>
+    <timeenrolled>1666067495</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520965">
+    <userid>165433</userid>
+    <course>29204</course>
+    <timeenrolled>1666153848</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520966">
+    <userid>165447</userid>
+    <course>29204</course>
+    <timeenrolled>1666153848</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520967">
+    <userid>165476</userid>
+    <course>29204</course>
+    <timeenrolled>1666240258</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520968">
+    <userid>165518</userid>
+    <course>29204</course>
+    <timeenrolled>1666326643</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520969">
+    <userid>165541</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520970">
+    <userid>165554</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520971">
+    <userid>165565</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520972">
+    <userid>165578</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520973">
+    <userid>165596</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520974">
+    <userid>165605</userid>
+    <course>29204</course>
+    <timeenrolled>1666845049</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520975">
+    <userid>165613</userid>
+    <course>29204</course>
+    <timeenrolled>1666845050</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520976">
+    <userid>165654</userid>
+    <course>29204</course>
+    <timeenrolled>1667107846</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520977">
+    <userid>165697</userid>
+    <course>29204</course>
+    <timeenrolled>1667453446</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520978">
+    <userid>165704</userid>
+    <course>29204</course>
+    <timeenrolled>1667539847</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520979">
+    <userid>165822</userid>
+    <course>29204</course>
+    <timeenrolled>1668144647</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520980">
+    <userid>165967</userid>
+    <course>29204</course>
+    <timeenrolled>1668835885</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520981">
+    <userid>166877</userid>
+    <course>29204</course>
+    <timeenrolled>1672847191</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="6520982">
+    <userid>168494</userid>
+    <course>29204</course>
+    <timeenrolled>1681974485</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7319903">
+    <userid>8173</userid>
+    <course>29204</course>
+    <timeenrolled>1695294119</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7319904">
+    <userid>10111</userid>
+    <course>29204</course>
+    <timeenrolled>1695355302</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7319905">
+    <userid>12687</userid>
+    <course>29204</course>
+    <timeenrolled>1695294119</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7319906">
+    <userid>13385</userid>
+    <course>29204</course>
+    <timeenrolled>1695294119</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7319907">
+    <userid>13767</userid>
+    <course>29204</course>
+    <timeenrolled>1695355302</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7324553">
+    <userid>8139</userid>
+    <course>29204</course>
+    <timeenrolled>1695441710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7324554">
+    <userid>8339</userid>
+    <course>29204</course>
+    <timeenrolled>1695441710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7324555">
+    <userid>8488</userid>
+    <course>29204</course>
+    <timeenrolled>1695441710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7324556">
+    <userid>9026</userid>
+    <course>29204</course>
+    <timeenrolled>1695441710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7327858">
+    <userid>6288</userid>
+    <course>29204</course>
+    <timeenrolled>1695528111</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7328041">
+    <userid>9045</userid>
+    <course>29204</course>
+    <timeenrolled>1695614501</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7328042">
+    <userid>165588</userid>
+    <course>29204</course>
+    <timeenrolled>1695614500</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7330151">
+    <userid>145763</userid>
+    <course>29204</course>
+    <timeenrolled>1695700907</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7330152">
+    <userid>146310</userid>
+    <course>29204</course>
+    <timeenrolled>1695700907</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7333526">
+    <userid>9916</userid>
+    <course>29204</course>
+    <timeenrolled>1695787306</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7333527">
+    <userid>169425</userid>
+    <course>29204</course>
+    <timeenrolled>1695787305</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7338664">
+    <userid>9852</userid>
+    <course>29204</course>
+    <timeenrolled>1695873703</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341709">
+    <userid>8469</userid>
+    <course>29204</course>
+    <timeenrolled>1695960109</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341710">
+    <userid>8548</userid>
+    <course>29204</course>
+    <timeenrolled>1695960108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341711">
+    <userid>9129</userid>
+    <course>29204</course>
+    <timeenrolled>1695960108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341712">
+    <userid>16607</userid>
+    <course>29204</course>
+    <timeenrolled>1695960109</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341713">
+    <userid>145858</userid>
+    <course>29204</course>
+    <timeenrolled>1695960108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7341714">
+    <userid>146506</userid>
+    <course>29204</course>
+    <timeenrolled>1695960108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7344771">
+    <userid>9885</userid>
+    <course>29204</course>
+    <timeenrolled>1696046525</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7344772">
+    <userid>146175</userid>
+    <course>29204</course>
+    <timeenrolled>1696046525</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7344773">
+    <userid>147649</userid>
+    <course>29204</course>
+    <timeenrolled>1696046525</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7344774">
+    <userid>147683</userid>
+    <course>29204</course>
+    <timeenrolled>1696046524</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7346336">
+    <userid>9617</userid>
+    <course>29204</course>
+    <timeenrolled>1696132918</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7346791">
+    <userid>12979</userid>
+    <course>29204</course>
+    <timeenrolled>1696219303</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7347285">
+    <userid>9790</userid>
+    <course>29204</course>
+    <timeenrolled>1696305714</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7357000">
+    <userid>6396</userid>
+    <course>29204</course>
+    <timeenrolled>1696392111</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7357001">
+    <userid>8105</userid>
+    <course>29204</course>
+    <timeenrolled>1696392111</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7357002">
+    <userid>9324</userid>
+    <course>29204</course>
+    <timeenrolled>1696392111</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7358648">
+    <userid>145875</userid>
+    <course>29204</course>
+    <timeenrolled>1696478511</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7361221">
+    <userid>8109</userid>
+    <course>29204</course>
+    <timeenrolled>1696564910</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7362802">
+    <userid>12892</userid>
+    <course>29204</course>
+    <timeenrolled>1696651321</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7364751">
+    <userid>5818</userid>
+    <course>29204</course>
+    <timeenrolled>1696737712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7364752">
+    <userid>12699</userid>
+    <course>29204</course>
+    <timeenrolled>1696737712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7364753">
+    <userid>13393</userid>
+    <course>29204</course>
+    <timeenrolled>1696737712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7364754">
+    <userid>146438</userid>
+    <course>29204</course>
+    <timeenrolled>1696737712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7365050">
+    <userid>146512</userid>
+    <course>29204</course>
+    <timeenrolled>1696824108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7373739">
+    <userid>8427</userid>
+    <course>29204</course>
+    <timeenrolled>1696996913</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7373740">
+    <userid>145915</userid>
+    <course>29204</course>
+    <timeenrolled>1696996913</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7373741">
+    <userid>147283</userid>
+    <course>29204</course>
+    <timeenrolled>1696996913</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7375291">
+    <userid>8936</userid>
+    <course>29204</course>
+    <timeenrolled>1697083318</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7375292">
+    <userid>9575</userid>
+    <course>29204</course>
+    <timeenrolled>1697083317</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7375293">
+    <userid>14453</userid>
+    <course>29204</course>
+    <timeenrolled>1697083318</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7376334">
+    <userid>16606</userid>
+    <course>29204</course>
+    <timeenrolled>1697169710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7376335">
+    <userid>146077</userid>
+    <course>29204</course>
+    <timeenrolled>1697169710</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7377047">
+    <userid>15846</userid>
+    <course>29204</course>
+    <timeenrolled>1697256116</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7377048">
+    <userid>145744</userid>
+    <course>29204</course>
+    <timeenrolled>1697256116</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7377996">
+    <userid>3932</userid>
+    <course>29204</course>
+    <timeenrolled>1697342519</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7377997">
+    <userid>9424</userid>
+    <course>29204</course>
+    <timeenrolled>1697342519</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7377998">
+    <userid>145854</userid>
+    <course>29204</course>
+    <timeenrolled>1697342519</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7378065">
+    <userid>8307</userid>
+    <course>29204</course>
+    <timeenrolled>1697428916</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7379181">
+    <userid>5713</userid>
+    <course>29204</course>
+    <timeenrolled>1697601712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7379182">
+    <userid>8744</userid>
+    <course>29204</course>
+    <timeenrolled>1697601712</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7439955">
+    <userid>5660</userid>
+    <course>29204</course>
+    <timeenrolled>1697688108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7439956">
+    <userid>146542</userid>
+    <course>29204</course>
+    <timeenrolled>1697688108</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7439957">
+    <userid>146562</userid>
+    <course>29204</course>
+    <timeenrolled>1697633342</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7442202">
+    <userid>146639</userid>
+    <course>29204</course>
+    <timeenrolled>1697947324</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7442300">
+    <userid>8483</userid>
+    <course>29204</course>
+    <timeenrolled>1698033713</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7442301">
+    <userid>146705</userid>
+    <course>29204</course>
+    <timeenrolled>1698033713</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7442419">
+    <userid>10408</userid>
+    <course>29204</course>
+    <timeenrolled>1698120116</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7446946">
+    <userid>145872</userid>
+    <course>29204</course>
+    <timeenrolled>1698379325</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7446947">
+    <userid>147781</userid>
+    <course>29204</course>
+    <timeenrolled>1698379325</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447286">
+    <userid>7710</userid>
+    <course>29204</course>
+    <timeenrolled>1698465732</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447287">
+    <userid>8081</userid>
+    <course>29204</course>
+    <timeenrolled>1698465732</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447288">
+    <userid>14572</userid>
+    <course>29204</course>
+    <timeenrolled>1698465732</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447621">
+    <userid>9175</userid>
+    <course>29204</course>
+    <timeenrolled>1698555755</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447622">
+    <userid>146537</userid>
+    <course>29204</course>
+    <timeenrolled>1698555755</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447702">
+    <userid>6252</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447703">
+    <userid>6529</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447704">
+    <userid>10515</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447705">
+    <userid>145982</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447706">
+    <userid>146488</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7447707">
+    <userid>147380</userid>
+    <course>29204</course>
+    <timeenrolled>1698728531</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7448233">
+    <userid>9724</userid>
+    <course>29204</course>
+    <timeenrolled>1698814933</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7448234">
+    <userid>13125</userid>
+    <course>29204</course>
+    <timeenrolled>1698814933</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7448235">
+    <userid>146670</userid>
+    <course>29204</course>
+    <timeenrolled>1698814933</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7448737">
+    <userid>147788</userid>
+    <course>29204</course>
+    <timeenrolled>1698901325</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7448773">
+    <userid>147902</userid>
+    <course>29204</course>
+    <timeenrolled>1698987730</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7450061">
+    <userid>128143</userid>
+    <course>29204</course>
+    <timeenrolled>1699074153</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7450062">
+    <userid>146095</userid>
+    <course>29204</course>
+    <timeenrolled>1699074153</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7450418">
+    <userid>147796</userid>
+    <course>29204</course>
+    <timeenrolled>1699246918</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7450629">
+    <userid>6877</userid>
+    <course>29204</course>
+    <timeenrolled>1699333320</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7454116">
+    <userid>9880</userid>
+    <course>29204</course>
+    <timeenrolled>1699851720</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476657">
+    <userid>1890</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476658">
+    <userid>3611</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476659">
+    <userid>9419</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476660">
+    <userid>12657</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476661">
+    <userid>13585</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476662">
+    <userid>14474</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476663">
+    <userid>15062</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476664">
+    <userid>15893</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476665">
+    <userid>16875</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476666">
+    <userid>19970</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476667">
+    <userid>19971</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476668">
+    <userid>20064</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476669">
+    <userid>20218</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476670">
+    <userid>20282</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476671">
+    <userid>20324</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476672">
+    <userid>20326</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476673">
+    <userid>20743</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476674">
+    <userid>20792</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476675">
+    <userid>20972</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476676">
+    <userid>21152</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476677">
+    <userid>21348</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476678">
+    <userid>21581</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476679">
+    <userid>21653</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476680">
+    <userid>21669</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476681">
+    <userid>21835</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476682">
+    <userid>21923</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476683">
+    <userid>22162</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476684">
+    <userid>22203</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476685">
+    <userid>22278</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476686">
+    <userid>22329</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476687">
+    <userid>22627</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476688">
+    <userid>22629</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476689">
+    <userid>22852</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476690">
+    <userid>23047</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476691">
+    <userid>23497</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476692">
+    <userid>23637</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476693">
+    <userid>23657</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476694">
+    <userid>24902</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476695">
+    <userid>25198</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476696">
+    <userid>27228</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476697">
+    <userid>48389</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476698">
+    <userid>49275</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476699">
+    <userid>49672</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476700">
+    <userid>49678</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476701">
+    <userid>49835</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476702">
+    <userid>49982</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476703">
+    <userid>50015</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476704">
+    <userid>50158</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476705">
+    <userid>50247</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476706">
+    <userid>50297</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476707">
+    <userid>50531</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476708">
+    <userid>50822</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476709">
+    <userid>50890</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476710">
+    <userid>51058</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476711">
+    <userid>51151</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476712">
+    <userid>52143</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476713">
+    <userid>54205</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476714">
+    <userid>74018</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476715">
+    <userid>97114</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476716">
+    <userid>115421</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476717">
+    <userid>115665</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476718">
+    <userid>136075</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476719">
+    <userid>142211</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476720">
+    <userid>145860</userid>
+    <course>29204</course>
+    <timeenrolled>1701523729</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476721">
+    <userid>168072</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476722">
+    <userid>181291</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476723">
+    <userid>181438</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476724">
+    <userid>181472</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476725">
+    <userid>181507</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476726">
+    <userid>181646</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476727">
+    <userid>181806</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476728">
+    <userid>181809</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476729">
+    <userid>181816</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476730">
+    <userid>181820</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476731">
+    <userid>181837</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476732">
+    <userid>181857</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476733">
+    <userid>181861</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476734">
+    <userid>181991</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476735">
+    <userid>182020</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476736">
+    <userid>182031</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476737">
+    <userid>182056</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476738">
+    <userid>182076</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476739">
+    <userid>182105</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476740">
+    <userid>182108</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476741">
+    <userid>182142</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476742">
+    <userid>182147</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476743">
+    <userid>182148</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476744">
+    <userid>182163</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476745">
+    <userid>182164</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476746">
+    <userid>182169</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476747">
+    <userid>182172</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476748">
+    <userid>182175</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476749">
+    <userid>182190</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476750">
+    <userid>182195</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476751">
+    <userid>182209</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476752">
+    <userid>182212</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476753">
+    <userid>182265</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476754">
+    <userid>182267</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476755">
+    <userid>182309</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476756">
+    <userid>182322</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476757">
+    <userid>182337</userid>
+    <course>29204</course>
+    <timeenrolled>1701525599</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476758">
+    <userid>182367</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476759">
+    <userid>182371</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476760">
+    <userid>182423</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476761">
+    <userid>182503</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476762">
+    <userid>182531</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476763">
+    <userid>182552</userid>
+    <course>29204</course>
+    <timeenrolled>1701525598</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476764">
+    <userid>182583</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476765">
+    <userid>182590</userid>
+    <course>29204</course>
+    <timeenrolled>1701525150</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476766">
+    <userid>182658</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7476767">
+    <userid>182711</userid>
+    <course>29204</course>
+    <timeenrolled>1701523728</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="7572114">
+    <userid>182058</userid>
+    <course>29204</course>
+    <timeenrolled>1706515744</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="8424444">
+    <userid>146494</userid>
+    <course>29204</course>
+    <timeenrolled>1725706951</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+  <course_completions id="8530212">
+    <userid>146689</userid>
+    <course>29204</course>
+    <timeenrolled>1727929893</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>0</reaggregate>
+  </course_completions>
+</course_completion>

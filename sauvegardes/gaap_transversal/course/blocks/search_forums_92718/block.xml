@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="92718" contextid="347661" version="2022112800">
+  <blockname>search_forums</blockname>
+  <parentcontextid>347611</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>2</defaultweight>
+  <configdata>Tjs=</configdata>
+  <timecreated>1534934345</timecreated>
+  <timemodified>1534934333</timemodified>
+  <block_positions>
+    <block_position id="6326">
+      <contextid>347611</contextid>
+      <pagetype>course-view</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-post</region>
+      <weight>2</weight>
+    </block_position>
+  </block_positions>
+</block>

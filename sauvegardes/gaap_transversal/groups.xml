@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group id="53991">
+    <name>Groupe 1</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1728290508</timemodified>
+    <group_members>
+      <group_member id="4858367">
+        <userid>35495</userid>
+        <timeadded>1660748131</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="4877596">
+        <userid>130707</userid>
+        <timeadded>1661938588</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6736675">
+        <userid>130711</userid>
+        <timeadded>1701443204</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53992">
+    <name>Groupe 2</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701525770</timemodified>
+    <group_members>
+      <group_member id="5629634">
+        <userid>130707</userid>
+        <timeadded>1669832553</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="5629745">
+        <userid>165852</userid>
+        <timeadded>1669833999</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6736688">
+        <userid>148356</userid>
+        <timeadded>1701443355</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738742">
+        <userid>15062</userid>
+        <timeadded>1701525706</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738743">
+        <userid>50890</userid>
+        <timeadded>1701525713</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738744">
+        <userid>21152</userid>
+        <timeadded>1701525722</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738745">
+        <userid>182503</userid>
+        <timeadded>1701525730</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738746">
+        <userid>19970</userid>
+        <timeadded>1701525738</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738747">
+        <userid>49982</userid>
+        <timeadded>1701525748</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738748">
+        <userid>181820</userid>
+        <timeadded>1701525758</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738749">
+        <userid>21835</userid>
+        <timeadded>1701525763</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738750">
+        <userid>19971</userid>
+        <timeadded>1701525770</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53993">
+    <name>Groupe 3</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1706515780</timemodified>
+    <group_members>
+      <group_member id="6738751">
+        <userid>130728</userid>
+        <timeadded>1701525792</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738752">
+        <userid>130707</userid>
+        <timeadded>1701525801</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738753">
+        <userid>21581</userid>
+        <timeadded>1701525807</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738754">
+        <userid>23497</userid>
+        <timeadded>1701525815</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738755">
+        <userid>49678</userid>
+        <timeadded>1701525820</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738756">
+        <userid>168072</userid>
+        <timeadded>1701525826</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738757">
+        <userid>20972</userid>
+        <timeadded>1701525837</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738758">
+        <userid>22278</userid>
+        <timeadded>1701525842</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738759">
+        <userid>182711</userid>
+        <timeadded>1701525850</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738760">
+        <userid>182148</userid>
+        <timeadded>1701525857</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738761">
+        <userid>182076</userid>
+        <timeadded>1701525862</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6930357">
+        <userid>182058</userid>
+        <timeadded>1706515780</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53994">
+    <name>Groupe 4</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701525992</timemodified>
+    <group_members>
+      <group_member id="6738762">
+        <userid>35495</userid>
+        <timeadded>1701525885</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738763">
+        <userid>65066</userid>
+        <timeadded>1701525891</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738764">
+        <userid>5660</userid>
+        <timeadded>1701525899</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738765">
+        <userid>12979</userid>
+        <timeadded>1701525909</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738766">
+        <userid>146705</userid>
+        <timeadded>1701525923</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738767">
+        <userid>8173</userid>
+        <timeadded>1701525936</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738768">
+        <userid>2855</userid>
+        <timeadded>1701525945</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738769">
+        <userid>12687</userid>
+        <timeadded>1701525954</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738770">
+        <userid>146537</userid>
+        <timeadded>1701525962</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738771">
+        <userid>3932</userid>
+        <timeadded>1701525969</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738772">
+        <userid>145875</userid>
+        <timeadded>1701525976</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738773">
+        <userid>8548</userid>
+        <timeadded>1701525982</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738774">
+        <userid>8483</userid>
+        <timeadded>1701525992</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53995">
+    <name>Groupe 5</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526088</timemodified>
+    <group_members>
+      <group_member id="6736689">
+        <userid>109570</userid>
+        <timeadded>1701443446</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6736690">
+        <userid>42767</userid>
+        <timeadded>1701443455</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738775">
+        <userid>181809</userid>
+        <timeadded>1701526018</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738776">
+        <userid>182108</userid>
+        <timeadded>1701526026</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738777">
+        <userid>54205</userid>
+        <timeadded>1701526037</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738778">
+        <userid>20218</userid>
+        <timeadded>1701526043</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738779">
+        <userid>20064</userid>
+        <timeadded>1701526050</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738780">
+        <userid>12657</userid>
+        <timeadded>1701526056</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738781">
+        <userid>14474</userid>
+        <timeadded>1701526065</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738782">
+        <userid>16875</userid>
+        <timeadded>1701526074</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738783">
+        <userid>182658</userid>
+        <timeadded>1701526080</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738784">
+        <userid>182423</userid>
+        <timeadded>1701526088</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53996">
+    <name>Groupe 6</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1728290508</timemodified>
+    <group_members>
+      <group_member id="5629654">
+        <userid>91890</userid>
+        <timeadded>1669832802</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="5925440">
+        <userid>168494</userid>
+        <timeadded>1682501086</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738785">
+        <userid>10408</userid>
+        <timeadded>1701526106</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738786">
+        <userid>9880</userid>
+        <timeadded>1701526112</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738787">
+        <userid>9617</userid>
+        <timeadded>1701526118</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738788">
+        <userid>146175</userid>
+        <timeadded>1701526124</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738789">
+        <userid>146077</userid>
+        <timeadded>1701526148</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738790">
+        <userid>9724</userid>
+        <timeadded>1701526154</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738791">
+        <userid>142211</userid>
+        <timeadded>1701526162</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738961">
+        <userid>13767</userid>
+        <timeadded>1701528642</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6941363">
+        <userid>39287</userid>
+        <timeadded>1708086134</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53997">
+    <name>Groupe 7</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526342</timemodified>
+    <group_members>
+      <group_member id="6738793">
+        <userid>109291</userid>
+        <timeadded>1701526211</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738794">
+        <userid>130800</userid>
+        <timeadded>1701526219</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738795">
+        <userid>129830</userid>
+        <timeadded>1701526291</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738796">
+        <userid>134306</userid>
+        <timeadded>1701526291</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738797">
+        <userid>12699</userid>
+        <timeadded>1701526299</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738798">
+        <userid>16607</userid>
+        <timeadded>1701526307</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738799">
+        <userid>8488</userid>
+        <timeadded>1701526315</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738800">
+        <userid>10111</userid>
+        <timeadded>1701526322</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738801">
+        <userid>147283</userid>
+        <timeadded>1701526330</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738802">
+        <userid>145763</userid>
+        <timeadded>1701526337</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738803">
+        <userid>12892</userid>
+        <timeadded>1701526342</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53998">
+    <name>Groupe 8</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526448</timemodified>
+    <group_members>
+      <group_member id="6738804">
+        <userid>149347</userid>
+        <timeadded>1701526370</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738805">
+        <userid>165786</userid>
+        <timeadded>1701526376</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738806">
+        <userid>9129</userid>
+        <timeadded>1701526383</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738807">
+        <userid>145860</userid>
+        <timeadded>1701526391</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738808">
+        <userid>13393</userid>
+        <timeadded>1701526398</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738809">
+        <userid>9885</userid>
+        <timeadded>1701526406</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738810">
+        <userid>5071</userid>
+        <timeadded>1701526420</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738811">
+        <userid>8307</userid>
+        <timeadded>1701526430</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738812">
+        <userid>9026</userid>
+        <timeadded>1701526440</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738813">
+        <userid>128143</userid>
+        <timeadded>1701526448</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="53999">
+    <name>Groupe 9</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1728290507</timemodified>
+    <group_members>
+      <group_member id="6738814">
+        <userid>88589</userid>
+        <timeadded>1701526522</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738815">
+        <userid>166389</userid>
+        <timeadded>1701526522</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738816">
+        <userid>43101</userid>
+        <timeadded>1701526529</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738817">
+        <userid>146095</userid>
+        <timeadded>1701526534</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738818">
+        <userid>9045</userid>
+        <timeadded>1701526540</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738819">
+        <userid>6396</userid>
+        <timeadded>1701526546</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738820">
+        <userid>146310</userid>
+        <timeadded>1701526552</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738822">
+        <userid>8105</userid>
+        <timeadded>1701526568</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738823">
+        <userid>8744</userid>
+        <timeadded>1701526576</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738824">
+        <userid>9175</userid>
+        <timeadded>1701526582</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54000">
+    <name>Groupe 10</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526682</timemodified>
+    <group_members>
+      <group_member id="6738825">
+        <userid>124952</userid>
+        <timeadded>1701526598</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738826">
+        <userid>88049</userid>
+        <timeadded>1701526605</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738827">
+        <userid>74018</userid>
+        <timeadded>1701526612</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738828">
+        <userid>182020</userid>
+        <timeadded>1701526618</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738829">
+        <userid>20326</userid>
+        <timeadded>1701526625</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738830">
+        <userid>182322</userid>
+        <timeadded>1701526630</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738831">
+        <userid>182531</userid>
+        <timeadded>1701526641</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738832">
+        <userid>21923</userid>
+        <timeadded>1701526650</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738833">
+        <userid>20743</userid>
+        <timeadded>1701526658</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738834">
+        <userid>50822</userid>
+        <timeadded>1701526668</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738835">
+        <userid>20282</userid>
+        <timeadded>1701526675</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738836">
+        <userid>181816</userid>
+        <timeadded>1701526682</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54001">
+    <name>Groupe 11</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526814</timemodified>
+    <group_members>
+      <group_member id="6738837">
+        <userid>38990</userid>
+        <timeadded>1701526715</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738838">
+        <userid>33228</userid>
+        <timeadded>1701526721</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738839">
+        <userid>22629</userid>
+        <timeadded>1701526740</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738840">
+        <userid>51151</userid>
+        <timeadded>1701526749</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738841">
+        <userid>181291</userid>
+        <timeadded>1701526759</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738842">
+        <userid>24902</userid>
+        <timeadded>1701526768</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738843">
+        <userid>182031</userid>
+        <timeadded>1701526774</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738844">
+        <userid>182164</userid>
+        <timeadded>1701526782</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738845">
+        <userid>50158</userid>
+        <timeadded>1701526790</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738846">
+        <userid>182212</userid>
+        <timeadded>1701526799</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738847">
+        <userid>49275</userid>
+        <timeadded>1701526807</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738848">
+        <userid>22627</userid>
+        <timeadded>1701526814</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54002">
+    <name>Groupe 12</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701526916</timemodified>
+    <group_members>
+      <group_member id="6738849">
+        <userid>43083</userid>
+        <timeadded>1701526844</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738850">
+        <userid>130725</userid>
+        <timeadded>1701526850</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738851">
+        <userid>13585</userid>
+        <timeadded>1701526859</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738852">
+        <userid>182105</userid>
+        <timeadded>1701526867</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738853">
+        <userid>182583</userid>
+        <timeadded>1701526875</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738854">
+        <userid>182265</userid>
+        <timeadded>1701526880</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738855">
+        <userid>52143</userid>
+        <timeadded>1701526886</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738856">
+        <userid>182169</userid>
+        <timeadded>1701526895</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738857">
+        <userid>182371</userid>
+        <timeadded>1701526904</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738858">
+        <userid>21669</userid>
+        <timeadded>1701526910</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738859">
+        <userid>50297</userid>
+        <timeadded>1701526916</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54003">
+    <name>Groupe 13</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1708086111</timemodified>
+    <group_members>
+      <group_member id="6738860">
+        <userid>39287</userid>
+        <timeadded>1701526944</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738861">
+        <userid>109565</userid>
+        <timeadded>1701526954</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738862">
+        <userid>48389</userid>
+        <timeadded>1701526962</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738863">
+        <userid>182590</userid>
+        <timeadded>1701526968</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738864">
+        <userid>23637</userid>
+        <timeadded>1701526980</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738865">
+        <userid>165588</userid>
+        <timeadded>1701526989</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738866">
+        <userid>181861</userid>
+        <timeadded>1701526998</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738867">
+        <userid>169425</userid>
+        <timeadded>1701527014</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738868">
+        <userid>27228</userid>
+        <timeadded>1701527026</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738869">
+        <userid>50531</userid>
+        <timeadded>1701527037</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738870">
+        <userid>182195</userid>
+        <timeadded>1701527043</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6941362">
+        <userid>91890</userid>
+        <timeadded>1708086111</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54004">
+    <name>Groupe 14</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701527125</timemodified>
+    <group_members>
+      <group_member id="5629700">
+        <userid>33412</userid>
+        <timeadded>1669833273</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="5629702">
+        <userid>63654</userid>
+        <timeadded>1669833279</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738871">
+        <userid>146562</userid>
+        <timeadded>1701527060</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738872">
+        <userid>8081</userid>
+        <timeadded>1701527070</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738873">
+        <userid>97114</userid>
+        <timeadded>1701527070</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738874">
+        <userid>145854</userid>
+        <timeadded>1701527083</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738875">
+        <userid>13385</userid>
+        <timeadded>1701527094</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738876">
+        <userid>8427</userid>
+        <timeadded>1701527100</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738877">
+        <userid>15846</userid>
+        <timeadded>1701527111</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738878">
+        <userid>6288</userid>
+        <timeadded>1701527119</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738879">
+        <userid>147649</userid>
+        <timeadded>1701527125</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54005">
+    <name>Groupe 15</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701527198</timemodified>
+    <group_members>
+      <group_member id="5629616">
+        <userid>149752</userid>
+        <timeadded>1669831901</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="5629617">
+        <userid>40860</userid>
+        <timeadded>1669831911</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738880">
+        <userid>23657</userid>
+        <timeadded>1701527141</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738881">
+        <userid>181646</userid>
+        <timeadded>1701527151</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738882">
+        <userid>20324</userid>
+        <timeadded>1701527158</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738883">
+        <userid>182209</userid>
+        <timeadded>1701527166</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738884">
+        <userid>51058</userid>
+        <timeadded>1701527180</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738885">
+        <userid>21653</userid>
+        <timeadded>1701527187</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738886">
+        <userid>20792</userid>
+        <timeadded>1701527198</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54006">
+    <name>Groupe 16</name>
+    <idnumber></idnumber>
+    <description>$@NULL@$</description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey>$@NULL@$</enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701527264</timemodified>
+    <group_members>
+      <group_member id="5629615">
+        <userid>81147</userid>
+        <timeadded>1669831868</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="5629748">
+        <userid>110140</userid>
+        <timeadded>1669834052</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738887">
+        <userid>50247</userid>
+        <timeadded>1701527217</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738888">
+        <userid>9419</userid>
+        <timeadded>1701527224</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738889">
+        <userid>182056</userid>
+        <timeadded>1701527232</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738890">
+        <userid>181837</userid>
+        <timeadded>1701527246</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738891">
+        <userid>182267</userid>
+        <timeadded>1701527252</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738892">
+        <userid>181507</userid>
+        <timeadded>1701527258</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738893">
+        <userid>25198</userid>
+        <timeadded>1701527264</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54008">
+    <name>Groupe 17</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701981688</timemodified>
+    <group_members>
+      <group_member id="6738894">
+        <userid>40143</userid>
+        <timeadded>1701527277</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738895">
+        <userid>129866</userid>
+        <timeadded>1701527301</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738896">
+        <userid>146488</userid>
+        <timeadded>1701527329</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738897">
+        <userid>145915</userid>
+        <timeadded>1701527336</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738898">
+        <userid>5713</userid>
+        <timeadded>1701527344</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738899">
+        <userid>147788</userid>
+        <timeadded>1701527352</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738900">
+        <userid>147902</userid>
+        <timeadded>1701527361</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738901">
+        <userid>6252</userid>
+        <timeadded>1701527369</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6770373">
+        <userid>3822</userid>
+        <timeadded>1701981688</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54009">
+    <name>Groupe 18</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701527465</timemodified>
+    <group_members>
+      <group_member id="6738902">
+        <userid>65068</userid>
+        <timeadded>1701527402</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738903">
+        <userid>165813</userid>
+        <timeadded>1701527408</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738904">
+        <userid>146670</userid>
+        <timeadded>1701527415</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738905">
+        <userid>14572</userid>
+        <timeadded>1701527422</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738906">
+        <userid>1890</userid>
+        <timeadded>1701527433</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738907">
+        <userid>115665</userid>
+        <timeadded>1701527433</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738908">
+        <userid>145858</userid>
+        <timeadded>1701527433</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738909">
+        <userid>147796</userid>
+        <timeadded>1701527440</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738910">
+        <userid>145744</userid>
+        <timeadded>1701527451</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738911">
+        <userid>16606</userid>
+        <timeadded>1701527459</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738912">
+        <userid>9424</userid>
+        <timeadded>1701527465</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54010">
+    <name>Groupe 19</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701527569</timemodified>
+    <group_members>
+      <group_member id="6738913">
+        <userid>19198</userid>
+        <timeadded>1701527485</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738914">
+        <userid>165737</userid>
+        <timeadded>1701527492</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738915">
+        <userid>181438</userid>
+        <timeadded>1701527498</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738916">
+        <userid>182552</userid>
+        <timeadded>1701527507</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738917">
+        <userid>181806</userid>
+        <timeadded>1701527517</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738918">
+        <userid>181991</userid>
+        <timeadded>1701527526</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738919">
+        <userid>22329</userid>
+        <timeadded>1701527531</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738920">
+        <userid>182163</userid>
+        <timeadded>1701527540</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738921">
+        <userid>23047</userid>
+        <timeadded>1701527546</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738922">
+        <userid>136075</userid>
+        <timeadded>1701527546</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738923">
+        <userid>182367</userid>
+        <timeadded>1701527557</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738924">
+        <userid>49672</userid>
+        <timeadded>1701527569</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="54011">
+    <name>Groupe 20</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>0</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1542189266</timecreated>
+    <timemodified>1701528459</timemodified>
+    <group_members>
+      <group_member id="6738925">
+        <userid>130843</userid>
+        <timeadded>1701527619</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738926">
+        <userid>182175</userid>
+        <timeadded>1701527628</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738927">
+        <userid>182337</userid>
+        <timeadded>1701527640</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738928">
+        <userid>22852</userid>
+        <timeadded>1701527655</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738929">
+        <userid>181857</userid>
+        <timeadded>1701527663</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738930">
+        <userid>50015</userid>
+        <timeadded>1701527670</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738931">
+        <userid>21348</userid>
+        <timeadded>1701527680</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738932">
+        <userid>182190</userid>
+        <timeadded>1701527690</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738933">
+        <userid>182142</userid>
+        <timeadded>1701527696</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738959">
+        <userid>39372</userid>
+        <timeadded>1701528459</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738960">
+        <userid>165767</userid>
+        <timeadded>1701528459</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="66855">
+    <name>Groupe 21</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1573403215</timecreated>
+    <timemodified>1704791043</timemodified>
+    <group_members>
+      <group_member id="6738936">
+        <userid>10515</userid>
+        <timeadded>1701527735</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738937">
+        <userid>8339</userid>
+        <timeadded>1701527741</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738939">
+        <userid>8469</userid>
+        <timeadded>1701527753</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738940">
+        <userid>14453</userid>
+        <timeadded>1701527761</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738941">
+        <userid>145982</userid>
+        <timeadded>1701527768</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738942">
+        <userid>115421</userid>
+        <timeadded>1701527778</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738943">
+        <userid>147683</userid>
+        <timeadded>1701527779</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738944">
+        <userid>9852</userid>
+        <timeadded>1701527787</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738945">
+        <userid>146512</userid>
+        <timeadded>1701527794</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738946">
+        <userid>9575</userid>
+        <timeadded>1701527804</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6830996">
+        <userid>183550</userid>
+        <timeadded>1704791043</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="66856">
+    <name>Groupe 22</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1573403232</timecreated>
+    <timemodified>1701527910</timemodified>
+    <group_members>
+      <group_member id="6738947">
+        <userid>36030</userid>
+        <timeadded>1701527820</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738948">
+        <userid>148369</userid>
+        <timeadded>1701527830</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738949">
+        <userid>15893</userid>
+        <timeadded>1701527840</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738950">
+        <userid>182172</userid>
+        <timeadded>1701527851</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738951">
+        <userid>22162</userid>
+        <timeadded>1701527857</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738952">
+        <userid>22203</userid>
+        <timeadded>1701527867</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738953">
+        <userid>182147</userid>
+        <timeadded>1701527882</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738954">
+        <userid>3611</userid>
+        <timeadded>1701527889</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738955">
+        <userid>49835</userid>
+        <timeadded>1701527896</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738956">
+        <userid>181472</userid>
+        <timeadded>1701527905</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="6738957">
+        <userid>182309</userid>
+        <timeadded>1701527910</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <group id="66857">
+    <name>Groupe 23</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <timecreated>1573403247</timecreated>
+    <timemodified>1660741562</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <groupings>
+    <grouping id="530">
+      <name>Groupe 2</name>
+      <idnumber></idnumber>
+      <description>&lt;p&gt;Groupe 2 &lt;/p&gt;</description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1365164853</timecreated>
+      <timemodified>1384359071</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="531">
+      <name>Groupe 4</name>
+      <idnumber></idnumber>
+      <description>&lt;p&gt;Groupe 4&lt;/p&gt;</description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1384359086</timecreated>
+      <timemodified>1384359196</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="532">
+      <name>Groupe 5</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1392208692</timecreated>
+      <timemodified>1392208701</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="533">
+      <name>T3Enseignants</name>
+      <idnumber>T3E</idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412151799</timecreated>
+      <timemodified>1415620352</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="534">
+      <name>Groupe 3</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412171449</timecreated>
+      <timemodified>1412171449</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="535">
+      <name>Groupe 1</name>
+      <idnumber>T3G1</idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412171461</timecreated>
+      <timemodified>1415620249</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="536">
+      <name>Groupe 6</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412171474</timecreated>
+      <timemodified>1412171474</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="537">
+      <name>Groupe 7</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412171486</timecreated>
+      <timemodified>1412171486</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="538">
+      <name>Groupe 8</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1412171498</timecreated>
+      <timemodified>1412171498</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="539">
+      <name>Groupe 9</name>
+      <idnumber>T3GAAP9</idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1445449062</timecreated>
+      <timemodified>1445449062</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="540">
+      <name>Groupe 10</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1445449214</timecreated>
+      <timemodified>1445449214</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="541">
+      <name>Groupe 11</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1508921425</timecreated>
+      <timemodified>1508921425</timemodified>
+      <grouping_groups>
+      </grouping_groups>
+    </grouping>
+    <grouping id="1818">
+      <name>Groupes</name>
+      <idnumber></idnumber>
+      <description></description>
+      <descriptionformat>1</descriptionformat>
+      <configdata>$@NULL@$</configdata>
+      <timecreated>1649787449</timecreated>
+      <timemodified>1649787449</timemodified>
+      <grouping_groups>
+        <grouping_group id="15119">
+          <groupid>53991</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15120">
+          <groupid>54000</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15121">
+          <groupid>54001</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15122">
+          <groupid>54002</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15123">
+          <groupid>54003</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15124">
+          <groupid>54004</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15125">
+          <groupid>54005</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15126">
+          <groupid>54006</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15127">
+          <groupid>54008</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15128">
+          <groupid>54009</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15129">
+          <groupid>54010</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15130">
+          <groupid>53992</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15131">
+          <groupid>54011</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15132">
+          <groupid>66855</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15133">
+          <groupid>66856</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15134">
+          <groupid>66857</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15135">
+          <groupid>53993</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15136">
+          <groupid>53994</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15137">
+          <groupid>53995</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15138">
+          <groupid>53996</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15139">
+          <groupid>53997</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15140">
+          <groupid>53998</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+        <grouping_group id="15141">
+          <groupid>53999</groupid>
+          <timeadded>1649787472</timeadded>
+        </grouping_group>
+      </grouping_groups>
+    </grouping>
+  </groupings>
+</groups>

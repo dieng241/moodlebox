@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_definition>
+  <role id="9">
+    <name>Tuteur</name>
+    <shortname>tuteur</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Les tuteurs peuvent enseigner dans leur cours et donner des notes aux étudiants, mais ne peuvent ni ajouter, ni modifier des activités.&lt;/p&gt;
+&lt;p&gt;Ils peuvent suivre l'activité des étudiants et répondre / modérer les forums.&lt;/p&gt;
+&lt;p&gt;Sur les activités paramétrées en mode "groupes séparés", ils n'accèderont qu'à leurs groupes.&lt;/p&gt;</description>
+    <sortorder>10</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="11">
+    <name>Enseignant</name>
+    <shortname>editingteacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Les enseignants peuvent tout faire dans un cours, y compris ajouter et modifier les activités et donner des notes aux étudiants.&lt;/p&gt;</description>
+    <sortorder>8</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="13">
+    <name>Enseignant non éditeur</name>
+    <shortname>teacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Les enseignants non éditeurs peuvent enseigner dans leur cours et donner des notes aux étudiants, mais ne peuvent ni ajouter, ni modifier des activités.&lt;/p&gt;</description>
+    <sortorder>9</sortorder>
+    <archetype>teacher</archetype>
+  </role>
+  <role id="14">
+    <name>Responsable / Secrétariat</name>
+    <shortname>editingteachercopy</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Le role de responsable est équivalent au rôle d'enseignant. Ils peuvent tout faire dans un cours, y compris ajouter et modifier les activités et donner des notes aux étudiants.&lt;/p&gt;
+Il peut être attribué au niveau de la catégorie pour les responsables pédagogiques ou les secrétaires.</description>
+    <sortorder>12</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="15">
+    <name>Assistant de programme</name>
+    <shortname>programassistant</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Les assistants de programmes peuvent tout faire dans un cours, y compris ajouter et modifier les activités et donner des notes aux étudiants (mêmes droits que les enseignants)&lt;/p&gt;</description>
+    <sortorder>13</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="16">
+    <name>Étudiant</name>
+    <shortname>student</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;Les étudiants ont en général moins de privilèges dans un cours.&lt;/p&gt;</description>
+    <sortorder>11</sortorder>
+    <archetype>student</archetype>
+  </role>
+</roles_definition>

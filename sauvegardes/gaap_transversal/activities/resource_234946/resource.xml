@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="118660" moduleid="234946" modulename="resource" contextid="501459">
+  <resource id="118660">
+    <name>TUTORIEL E CAMPUS / TUTEURS GAAP </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>3</display>
+    <displayoptions>a:2:{s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1574427830</timemodified>
+  </resource>
+</activity>
